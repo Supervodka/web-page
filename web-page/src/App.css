@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Italianno&display=swap');
+.instagram-logo {
+  margin-left: 5%;
+  margin-top: 5%;
+  font-family: 'Italianno', cursive;
+  font-size: 50px;
+}
+
+
+
+.left-side-bar{
+  display: flex;
+  height: 20px;
+  margin-top: 50px;
+  margin-left: 5%;
+}
+
+.names-of-razdel{
+  margin-left: 20px;
+}
+
+
+.left-bar{
+  background-color: whitesmoke;
+  width: 30%;
+  height: 50em;
+}
